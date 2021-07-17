@@ -9,7 +9,7 @@
     </div>
 
     <project title="Waxeye"
-             image-url="/images/waxeye-project.jpg"
+             image-url="/portfolio/images/waxeye-project.jpg"
              image-alt="Waxeye website">
       <project-details project-url="https://waxeye.co.nz"
                        explanation="Waxeye is a digital agency centered around web design/development, VR, AR, MR. The website showcases their case studies from various clients they have worked with over the years. Waxeye website features several pages through its hamburger menu and a complex CMS driven case study component implementation."
@@ -26,7 +26,7 @@
     </div>
 
     <project title="Chorus consumer"
-             image-url="/images/chorus-consumer-project.jpg"
+             image-url="/portfolio/images/chorus-consumer-project.jpg"
              image-alt="Chorus consumer website">
       <project-details project-url="https://chorus.co.nz"
                        explanation="Chorus provides the backbone to New Zealand internet, their consumer website puts a face to the name with many pages, tools, apps encompassing a large ecosystem."
@@ -44,7 +44,7 @@
     </div>
 
     <project title="Chorus service providers"
-             image-url="/images/chorus-service-providers-project.jpg"
+             image-url="/portfolio/images/chorus-service-providers-project.jpg"
              image-alt="Chorus service providers website">
       <project-details project-url="https://sp.chorus.co.nz"
                        explanation="Chorus provides the backbone to New Zealand internet, their service providers website has information for partners in New Zealand wanting to provision their lines, such as Vodafone, Spark etc."
@@ -61,7 +61,7 @@
     </div>
 
     <project title="Chorus company"
-             image-url="/images/chorus-company-project.jpg"
+             image-url="/portfolio/images/chorus-company-project.jpg"
              image-alt="Chorus company website">
       <project-details project-url="https://company.chorus.co.nz"
                        explanation="Chorus provides the backbone to New Zealand internet, the company website is for their service providers."
@@ -78,7 +78,7 @@
     </div>
 
     <project title="Chorus HyperFibre"
-             image-url="/images/chorus-hyperfibre-project.jpg"
+             image-url="/portfolio/images/chorus-hyperfibre-project.jpg"
              image-alt="Chorus HyperFibre website">
       <project-details project-url="https://hyperfibre.chorus.co.nz"
                        explanation="Chorus HyperFibre gives out information on the HyperFibre rollout in New Zealand. They have several pages dedicated to sharing information such as downloads, news, release dates etc"
@@ -94,7 +94,7 @@
     </div>
 
     <project title="Sneakers"
-             image-url="/images/sneakers-project.jpg"
+             image-url="/portfolio/images/sneakers-project.jpg"
              image-alt="Sneakers website">
       <project-details project-url="https://sneakersmedia.co.nz"
                        explanation="Sneakers are a media design company, their website shows some information about them and their work."
@@ -111,7 +111,7 @@
     </div>
 
     <project title="Chorus Fibre lab"
-             image-url="/images/chorus-fibre-lab-project.jpg"
+             image-url="/portfolio/images/chorus-fibre-lab-project.jpg"
              image-alt="Chorus Fibre lab">
       <project-details project-url="https://sp.chorus.co.nz/training/chorus-fibre-lab"
                        explanation="Chorus Fibre lab is a virtual tour / experience with tracking inside the users service providers account."
@@ -126,7 +126,7 @@
     </div>
 
     <project title="Ecotricity"
-             image-url="/images/ecotricity-project.jpg"
+             image-url="/portfolio/images/ecotricity-project.jpg"
              image-alt="Ecotricity website">
       <project-details project-url="https://ecotricity.co.nz/"
                        explanation="Ecotricity is an electricity company sporting clean and green power. The website has several pages"
@@ -143,7 +143,7 @@
     </div>
 
     <project title="BiomeCraft community forum"
-             image-url="/images/biomecraft-project.jpg"
+             image-url="/portfolio/images/biomecraft-project.jpg"
              image-alt="BiomeCraft community forum website">
       <project-details project-url="https://biomecraft.com"
                        explanation="BiomeCraft community is a forum aimed for players of the server. Its still heavily in development so much of the design is still changing and ideas are being fleshed out. It has the potential to be quite complex so I am trying to simplify the ideas"
