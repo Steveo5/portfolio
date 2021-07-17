@@ -29,6 +29,8 @@
 </template>
 
 <script lang="ts">
+import { PropType } from "vue"
+
 export default {
   props: {
     explanation: {
@@ -40,7 +42,7 @@ export default {
       required: true
     },
     involvementList: {
-      type: Array as Array<String>,
+      type: Array as PropType<string[]>,
       default: []
     },
     projectUrl: {
