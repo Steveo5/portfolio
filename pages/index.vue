@@ -2,9 +2,9 @@
   <div>
     <div class="flex items-center justify-center bg-gray-900 sm:items-center py-64">
       <div>
-        <p class="text-white opacity-90 text-5xl mb-1">Lorem ipsum</p>
-        <p class="text-white opacity-90 text-5xl mb-1">Contrary to popular</p>
-        <p class="text-white opacity-90 text-5xl">simply random</p>
+        <p class="text-white opacity-90 text-5xl mb-1">Development</p>
+        <p class="text-white opacity-90 text-5xl mb-1">through passion</p>
+        <p class="text-white opacity-90 text-5xl mb-1">and motivation</p>
       </div>
     </div>
 
