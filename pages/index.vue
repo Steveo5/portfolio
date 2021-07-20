@@ -12,12 +12,12 @@
              image-url="/portfolio/images/waxeye-project.jpg"
              image-alt="Waxeye website">
       <project-details project-url="https://waxeye.co.nz"
-                       explanation="Waxeye is a digital agency centered around web design/development, VR, AR, MR. The website showcases their case studies from various clients they have worked with over the years. Waxeye website features several pages through its hamburger menu and a complex CMS driven case study component implementation."
+                       explanation="Waxeye is a digital agency centered around web design/development, VR, AR, MR. The website showcases their case studies from various clients they have worked with over the years. The Waxeye website features several pages through its hamburger menu and a complex CMS driven case study component implementation."
                        involvement-desc="Initially the project was migrated / rebuilt from a previous system, I worked with design and test to produce a product which included:"
                        :involvement-list="[
-                         'Layout system which included header, footer, an elaborate hamburger menu that resizes properly depending on the device',
+                         'Layout system including header, footer, an elaborate hamburger menu that resizes properly depending on the device',
                          'Contact page with frontend / backend validation, reCaptcha and sending success emails',
-                         'Complex component based case studies, these allow you to put a library of components on the page in any order. This also included dark mode styles.'
+                         'Complex component based case studies, these allow you to put a library of components on the page in any order. This also included dark mode styles'
                      ]"></project-details>
     </project>
 
@@ -33,9 +33,9 @@
                        involvement-desc="Since 2017, I have worked on rebuilding, refactoring and adding components to the site. These are some of the things I did:"
                        :involvement-list="[
                          'Hamburger menu with submenus and responsive mobile design',
-                         'Worked on several standalone apps in different frontend and backend libraries. These were on the /data-calculator and /speed-test amongst other pages.',
-                         'Creating blocks and components in the CMS to display on the page. These are all over the site.',
-                         'Create and learn new processes for testing, best practices and start to finish ticketing using Jira and other tools.'
+                         'Worked on several standalone apps in different frontend and backend libraries. These were on the /data-calculator and /speed-test amongst other pages',
+                         'Creating blocks and components in the CMS to display on the page. These are all over the site',
+                         'Create and learn new processes for testing, best practices and start to finish ticketing using Jira and other tools'
                      ]"></project-details>
     </project>
 
@@ -81,7 +81,7 @@
              image-url="/portfolio/images/chorus-hyperfibre-project.jpg"
              image-alt="Chorus HyperFibre website">
       <project-details project-url="https://hyperfibre.chorus.co.nz"
-                       explanation="Chorus HyperFibre gives out information on the HyperFibre rollout in New Zealand. They have several pages dedicated to sharing information such as downloads, news, release dates etc"
+                       explanation="Chorus HyperFibre gives out information on the HyperFibre rollout in New Zealand. They have several pages dedicated to sharing information such as downloads, news, release dates etc."
                        involvement-desc="During the setup I helped create the website, I worked on several pages and have helped keep it up to date since."
                        :involvement-list="[
                          'Worked on the video on the home page (I did not create this but have updated parts of it)',
@@ -152,7 +152,7 @@
                          'The home page has several components including an image slider',
                          'The forum index has many discussions that would be created by users',
                          'The forum post includes information about the post itself and a list of comments',
-                         'The user dashboard allows changes to be made to the profile picture, description etc.'
+                         'The user dashboard allows changes to be made to the profile picture, description etc'
                        ]"
                        source-url="https://github.com/Steveo5/biomecraft-website"></project-details>
     </project>
